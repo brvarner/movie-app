@@ -2,7 +2,7 @@ const url = (endpoint) => `https://moviesdatabase.p.rapidapi.com/${endpoint}`;
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": ,
+    "X-RapidAPI-Key": "7b254e496fmsh5e6fa342be06d5bp17247fjsn269d277e45e9",
     "X-RapidAPI-Host": "moviesdatabase.p.rapidapi.com",
   },
 };
